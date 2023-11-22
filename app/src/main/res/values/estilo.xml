@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ContainerComponent">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">500dp</item>
+        <item name="android:background">@drawable/container_components</item>
+    </style>
+
+    <style name="Edit_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:layout_marginTop">60dp</item>
+        <item name="android:maxLength">25</item>
+    </style>
+    
+    <style name="button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/button</item>
+    </style>
+
+    <style name="containerComponentRegistro">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">500dp</item>
+        <item name="android:background">@drawable/containercomponentregistro</item>
+    </style>
+
+    <style name="buttonRegistro">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">260dp</item>
+        <item name="android:layout_marginRight">120dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/button_registro</item>
+    </style>
+
+    <style name="buttonCancelar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/button_registro</item>
+    </style>
+
+    <style name="buttonAdicionar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">90dp</item>
+        <item name="android:layout_marginRight">90dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:background">@drawable/button_adicionar</item>
+    </style>
+
+    <style name="componenteAdicionarAlbum">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">300dp</item>
+        <item name="android:background">@drawable/components_adicionar_album</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSFOTOPRO</string>
+    <string name="entrar">Entrar</string>
+    <string name="Criar">Criar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="text_remember">Esqueceu a sua palavra-passe ?</string>
+</resources>
